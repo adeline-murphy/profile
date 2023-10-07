@@ -24,7 +24,8 @@
             "justifyContent": "center",
             "alignItems": "center",
             "display": "flex",
-            "borderRadius": 20
+            "borderRadius": 20,
+            "backgroundColor": "rgba(255, 250, 240, 1)"
         },
         "ShowStatusBar": true,
         "StatusBarStyle": "default",
@@ -37,9 +38,40 @@
         "DesignerHeight": 667,
         "DesignerWidth": 375,
         "ResponsiveWidth": 375,
-        "isSimple": true
+        "isSimple": true,
+        "BackgroundColor": "rgba(255, 250, 240, 1)"
     },
     "children": [
+        {
+            "type": "AdMobBanner",
+            "label": "AdMob Banner",
+            "translatedName": "AdMob Banner",
+            "properties": {
+                "Visible": true,
+                "AdUnitID": "ca-app-pub-3940256099942544/6300978111",
+                "AdUnitID_iOS": "ca-app-pub-3940256099942544/6300978111",
+                "TestMode": true,
+                "Width": 375,
+                "Height": 32,
+                "X": 0,
+                "ParentId": "25f37915-c7f4-4306-8a6c-8d104dffe547",
+                "Y": 633,
+                "RelativeX": 0,
+                "RelativeY": 633,
+                "position": "absolute",
+                "edgeOffsets": 633,
+                "style": {
+                    "position": "absolute",
+                    "left": "26.8%",
+                    "top": "90.67419415292353%",
+                    "display": "flex"
+                }
+            },
+            "children": [],
+            "id": "ba43fd10-326c-4b03-bab2-d1b055b98462",
+            "thunkableVersion": 423,
+            "name": "AdMob_Banner3"
+        },
         {
             "type": "Image",
             "translatedName": "Image",
@@ -198,7 +230,7 @@
             "translatedName": "Button",
             "properties": {
                 "Text": "Sign Out",
-                "TextColor": "#FFFFFF",
+                "TextColor": "rgba(255, 250, 240, 1)",
                 "FontSize": 18,
                 "BackgroundColor": "#2962FF",
                 "Height": 56,
