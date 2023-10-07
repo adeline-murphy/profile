@@ -21,8 +21,8 @@
                     "createdAt": "2023-09-24T20:35:50.774Z",
                     "updatedAt": "2023-09-24T20:35:50.774Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9de9266b9fc3aed8c57ab/projects/6509ae959fb7fe4a307385bb/assets/65109da66dfeb9512d19b76f?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20230924%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20230924T203550Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=02d0bd3147fa7236780d8edd41096769304f5b41a0b5547ffdfdb00e8759f1f6aee50eaa2132873836c005053453afbbfd24b6cd5c62eea198a9b9a37d872595c7d17561cb2d8fb58717e397ed41134b106911f786c3c41bfb239eed460ecb8fdb771777604b257ab1305b0f560d55fc7efcc53ca27d6808e9e2a6d5cb78e051d781639f9e073f5dcb785aaf4f8620f8f6306ee8014da589bf0cc3be5bc81b55852f2e0ac4248b60aab2b1ce98c50cba45b1ea42c95c29dde7cfcb690518a473548da8b9f0189cdd488472ab993572b8d7c72940acd093f09743936ac25597d21915339f90996509094b04028aeec38d3a9038c9b93e8aa850a209109a6ec963",
-                    "signedUrlExpirationTime": 1695760550805
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9de9266b9fc3aed8c57ab/projects/6509ae959fb7fe4a307385bb/assets/65109da66dfeb9512d19b76f?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231007%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231007T015447Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=5adaeab2c57d83bcab441cf1eac9029b6b93a49180630b461ed899a52e5880099659a732b6cb6d5e00b7ed27f2b75f89aa47c107a971e3a2dede4c133ea6188dbe39a9aadd580582b1385a5cf263e8d10e02a40aefdd701c567702556917c563a40e630d21c9272349dd5f976a6ac042388e9ae543f9f28a04cbe15b08640f5aec5f383e6f9bea3f2daee061cb08bc883ea9ae5d0ec4b9c724aeec5ed5ef2210382d0f7f981d20cd334121a52f3f2819fa6785334dcf04745310ae0d984503bd427d9757247b7f4daa09c58126d0785a47bf8c81b99307cf9b1481ec59b6c0d3a9a059e19e281e54461b88047cea49693340ae9cde9fa49dc7d93f05ec3c2272",
+                    "signedUrlExpirationTime": 1696816487662
                 }
             },
             "backendUpgradeVersion": 21,
@@ -113,9 +113,9 @@
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
                 "notchAreaColor": null,
-                "androidVersionName": "1",
-                "androidVersionCode": 1,
-                "iosVersionNumber": "1",
+                "androidVersionName": "2",
+                "androidVersionCode": 2,
+                "iosVersionNumber": "2",
                 "iosBuildNumber": "1",
                 "firebaseAPIKey": "AIzaSyDVphJNr9QSXqsMyC0UURP5gfqsQurUSnc",
                 "firebaseDatabaseURL": "https://profileapp-972cf-default-rtdb.firebaseio.com",
@@ -137,10 +137,7 @@
                 "cloudinaryAPISecret": "",
                 "permissions": {
                     "ios": {
-                        "usageDescriptions": {
-                            "NSCameraUsageDescription": "",
-                            "NSPhotoLibraryUsageDescription": ""
-                        }
+                        "usageDescriptions": {}
                     }
                 },
                 "googleMapAPIKeyAndroid": null,
@@ -151,7 +148,7 @@
                 "appleOAuthWebClientID": null,
                 "appleOAuthWebRedirectURI": null,
                 "admobAppIdIOS": null,
-                "admobAppIdAndroid": null,
+                "admobAppIdAndroid": "ca-app-pub-9109227461174853~6883827372",
                 "admobUserTrackingUsageDescription": null,
                 "__typename": "ProjectSettings"
             },
@@ -162,9 +159,9 @@
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
                 "notchAreaColor": null,
-                "androidVersionName": "1",
-                "androidVersionCode": 1,
-                "iosVersionNumber": "1",
+                "androidVersionName": "2",
+                "androidVersionCode": 2,
+                "iosVersionNumber": "2",
                 "iosBuildNumber": "1",
                 "firebaseAPIKey": "AIzaSyDVphJNr9QSXqsMyC0UURP5gfqsQurUSnc",
                 "firebaseDatabaseURL": "https://profileapp-972cf-default-rtdb.firebaseio.com",
@@ -186,10 +183,7 @@
                 "cloudinaryAPISecret": "",
                 "permissions": {
                     "ios": {
-                        "usageDescriptions": {
-                            "NSCameraUsageDescription": "",
-                            "NSPhotoLibraryUsageDescription": ""
-                        }
+                        "usageDescriptions": {}
                     }
                 },
                 "googleMapAPIKeyAndroid": null,
@@ -200,11 +194,11 @@
                 "appleOAuthWebClientID": null,
                 "appleOAuthWebRedirectURI": null,
                 "admobAppIdIOS": null,
-                "admobAppIdAndroid": null,
+                "admobAppIdAndroid": "ca-app-pub-9109227461174853~6883827372",
                 "admobUserTrackingUsageDescription": null,
                 "__typename": "ProjectSettings"
             },
-            "hasAdmob": false,
+            "hasAdmob": true,
             "hasBluetoothLowEnergy": null,
             "hasPushNotification": false,
             "hasAssistant": null,
